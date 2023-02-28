@@ -1,0 +1,120 @@
+body {
+    background-image: url('background1.jpg');
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    color: grey;
+    font-family:  Calibri;
+}
+
+.kiss{
+    width: 5%;
+    margin: 25px 48% 20px 48%;
+}
+
+.kiss img{
+    width: 100%;
+}
+
+.navigation {
+    width: 55%;
+    margin: 0 22%;
+    height: 50px;
+    
+}
+
+.navigation ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;    
+}
+
+.navigation li{
+    padding: 20px 0;
+    background-color: white;
+    opacity: 40%;
+    font-size: 150%;
+    float: left;
+    font-weight: 700;
+    height: 100%;
+    width: 33.33%;
+    text-align: center;
+}
+
+.navigation li:hover{
+    background-color: #E77471;
+    color: white; 
+}
+
+.text{
+    width: 48%;
+    margin: 0 5% 0 1%;
+}
+
+.logo {
+    width: 97%;
+    clear: left;
+    margin: 40px 0 0 2%;
+    background-image: url('Logo2.png');
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 100% 100%;
+}
+
+.logo h1{
+    font-family: Geneva;
+    font-weight: 100;
+    padding: 90px 0 70px 0;
+    font-size: 300%;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+h2 {
+    color: black;
+    width: 90%;
+    margin: 0 0 0 3%;
+    text-align: center;
+    padding: 0 0 0 200px;
+    font-size: 250%;
+    font-family: 'Gill Sans';
+    font-weight: 100;
+}
+
+.reklama {
+    width: 75%;
+    font-weight: 600;
+    font-size: 200%;
+    margin: 30px 2% 0 10%;
+    padding: 0;
+}
+
+.reklama p{
+    padding: 0;
+    margin: 0;
+}
+
+.lips {
+    float: right;
+    display: inline-block;
+    width: 40%;
+    margin: 0 5% 0 0;
+    padding: 0;
+}
+
+.lips img{
+    width: 100%;
+}
+
+button {
+    background-color: #A50808;
+    width: 40%;
+    margin: 40px 0 0 30%;
+    padding: 20px 0;
+    text-align: center;
+    color: white;
+    font-size: 150%;
+    border-radius: 10px;
+}
